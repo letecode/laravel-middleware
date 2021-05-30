@@ -17,7 +17,7 @@
                     {{ __('You are logged in!') }}
 
                     <div>
-                        <a href="{{route('admin.view')}}">voir l'administration</a>
+                        <a href="{{route('admin')}}">voir l'administration</a>
                     </div>
                 </div>
             </div>
